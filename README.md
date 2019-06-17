@@ -32,7 +32,7 @@ Programmatic assessment used methods:
 
 Then discovering the quality and tidiness issues.
 #### Quality Issues:
-* Twitter Archive dataset:
+##### * Twitter Archive dataset:
 ● 23 records include a rating denominator which doesn't equal to 10. (Validity)
 ● Rating Numerator in 6 cases was extracted incorrectly from the tweets text.
 (Validity)
@@ -44,7 +44,7 @@ Then discovering the quality and tidiness issues.
 ● Rating numerator and denominator should be in float datatype due to the fact
 that some rows have decimal values. (Accuracy)
 
-* Image Prediction dataset:
+##### * Image Prediction dataset:
 ● Number of tweet IDs in image prediction table doesn't match the number of records in twitter archive (Completeness)
 ● Some columns need to be renamed. (Consistency)
 ● p1, p2, & p3 information have a lot of underscores and dashes instead of spaces
@@ -52,7 +52,7 @@ that some rows have decimal values. (Accuracy)
 ● p1, p2, & p3 information sometimes start with capital letter and sometimes small
 latter. (Consistency)
       
-* JSON Tweets
+##### * JSON Tweets
 ● Number of Records in all the three data sets doesn't match. (Completeness)
 ● id column need to be renamed. (Consistency) Tidiness Issues:
 ● Doggo, Floof, Pupper & Puppo should be represented in one column.
