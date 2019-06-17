@@ -1,5 +1,6 @@
 May 25, 2019
 # Wrangle Report (WeRateDogs)
+#### By Hind AlRamah
 ## Project Overview
 In this project we wrangled ,analyzed and visualized a tweet archive of Twitter user @dog_rates, also known as WeRateDogs dataset.
 
