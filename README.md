@@ -25,10 +25,10 @@ Assess data visually and programmatically for quality and tidiness issues. Quali
 For all the three datasets we inspect them visually by creating dataframe for each datasets and read them to get the feeling and understand the data. And programmatically by using multiple pandas functions.
 
 Visual assessment used methods:
-● head(), tail(), sample()
+head(), tail(), sample()
 
 Programmatic assessment used methods:
-● value_counts(), describe(), info(), shape, duplicated(), unique(), query()
+value_counts(), describe(), info(), shape, duplicated(), unique(), query()
 
 Then discovering the quality and tidiness issues.
 #### Quality Issues:
