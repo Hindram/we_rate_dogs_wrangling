@@ -5,11 +5,11 @@ May 25, 2019
 In this project we wrangled ,analyzed and visualized a tweet archive of Twitter user @dog_rates, also known as WeRateDogs dataset.
 
 ## Project Details
-1. Data wrangling, which consists of three steps:
+### 1. Data wrangling, which consists of three steps:###
 ○ Gathering data.
 ○ Assessing data.
 ○ Cleaning data.
-2. Storing, analyzing, and visualizing the wrangled data.
+### 2. Storing, analyzing, and visualizing the wrangled data. ###
 
 ## Data wrangling
 #### Gathering data
