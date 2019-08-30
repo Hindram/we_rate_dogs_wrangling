@@ -17,7 +17,7 @@ Datasets were gathered from three sources as follow:
 1. The WeRateDogs Twitter archive csv file which was downloaded manually from
 Udacity ( twitter_archive_enhanced.csv ).
 2. The tweet image predictions, which contains the dogs breeds (or other object, animal, etc.) based on a neural network image prediction algorithm. The dataset was hosted by Udacity's servers and downloaded programmatically using the Requests library ( image_predictions.tsv ).
-URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image -predictions/image-predictions.tsv
+URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
 3. JSON file contains the number of retweets and likes for each tweet. This file was downloaded using Twitter API ( tweet_json.txt ).
 
 ### Assessing data
